@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skillxpmod",
+  "name": "Skill XP Mod",
+  "description": "A simple mod used to check skill data.",
+  "version": "release-v0.0.2",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DDOZZI"],
+  "credits": "Thanks to DDOZZI for making this mod!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
